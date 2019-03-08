@@ -1,7 +1,7 @@
 apiVersion: radix.equinor.com/v1
 kind: RadixApplication
 metadata:
-  name: ws-www-oyvvik
+  name: radix-example-workshop-oyvvik
 spec:
   environments:
     - name: production
